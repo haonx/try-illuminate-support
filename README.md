@@ -1,5 +1,5 @@
 # try-illuminate-support
-# Install
+## Install
 ```
 git clone https://github.com/haonx/try-illuminate-support.git
 cd try-illuminate-support
